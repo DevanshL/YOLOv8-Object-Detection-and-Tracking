@@ -1,12 +1,10 @@
-numpy==1.26.4
-streamlit==1.38.0
-yolov8==0.0.2
-ultralytics==8.2.83
-pafy==0.5.5
-yt-dlp==2024.8.6
-pytube==15.0.0
-torch>=2.0.0
-torchvision>=0.19.0
-ultralytics
-pillow==10.4.0
-opencv-python-headless==4.10.0.84
+opencv-python-headless==4.10.0.84  # OpenCV without GUI support
+numpy==1.26.4                      # For matrix operations
+streamlit==1.38.0                   # Streamlit version for UI
+ultralytics==8.2.83                 # YOLOv8
+pillow==10.4.0                      # Image handling
+pafy==0.5.5                         # YouTube video downloading
+yt-dlp==2024.8.6                    # YouTube video downloader
+pytube==15.0.0                      # Another YouTube video downloader
+torch>=2.0.0                        # PyTorch for YOLO model
+torchvision>=0.19.0                 # Vision library for PyTorch
