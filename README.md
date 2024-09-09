@@ -6,8 +6,10 @@ This project is a real-time object detection and tracking application using YOLO
 ## Tracking With Object Detection Demo
 
 
-![detected_video](https://github.com/user-attachments/assets/d188790e-2b5e-46dd-9e68-99fc9423a22d)
-![segmented_video](https://github.com/user-attachments/assets/9dd83a1a-10f8-4698-88cb-a582339a5337)
+
+
+https://github.com/user-attachments/assets/630cb165-f21b-4fce-90e6-495f48c7276d
+
 
 
 
