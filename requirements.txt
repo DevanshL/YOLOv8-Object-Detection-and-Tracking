@@ -1,7 +1,6 @@
 numpy==1.26.4
 streamlit==1.38.0
 opencv-python==4.10.0.84
-torch==2.4.0
 yolov8==0.0.2
 ultralytics==8.2.83
 pafy==0.5.5
