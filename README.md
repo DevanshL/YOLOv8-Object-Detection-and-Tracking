@@ -3,6 +3,7 @@ This project is a real-time object detection and tracking application using YOLO
 
 
 ## Tracking With Object Detection Demo
-![Tracking-With-Object-Detection](https://github.com/DevanshL/YOLOv8-Object-Detection-and-Tracking/blob/main/Videos/detected_messi.mp4)
 
-[![Tracking-With-Object-Detection](https://github.com/DevanshL/YOLOv8-Object-Detection-and-Tracking/blob/main/Videos/detected_messi.mp4)]([https://youtu.be/T-D1KVIuvjA](https://github.com/DevanshL/YOLOv8-Object-Detection-and-Tracking/blob/main/Videos/detected_messi.mp4))
+
+Uploading detected_messi.mp4…
+
