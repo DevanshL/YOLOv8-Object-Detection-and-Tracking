@@ -8,7 +8,7 @@ This project is a real-time object detection and tracking application using YOLO
 
 ## Image Detection and Tracking
 
-Solarized dark             |  Solarized Ocean
+Detected Image         |  Segemented Image
 :-------------------------:|:-------------------------:
 ![detected_image](https://github.com/DevanshL/YOLOv8-Object-Detection-and-Tracking/blob/main/Images/detected_image3.jpg)  |  ![Segemnted_image](https://github.com/DevanshL/YOLOv8-Object-Detection-and-Tracking/blob/main/Images/segmented_image3.jpg)
 
