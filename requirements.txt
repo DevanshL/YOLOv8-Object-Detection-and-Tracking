@@ -1,0 +1,12 @@
+numpy==1.26.4
+streamlit==1.38.0
+opencv-python==4.10.0.84
+torch==2.4.0
+yolov8==0.0.2
+ultralytics==8.2.83
+pafy==0.5.5
+yt-dlp==2024.8.6
+pytube==15.0.0
+torch==2.4.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+torchvision==0.19.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.4.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
